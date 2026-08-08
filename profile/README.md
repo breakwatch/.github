@@ -8,7 +8,7 @@
 
 Breakwatch scans your repos, maps every third-party API dependency, and alerts your team the moment a breaking change lands — down to the exact file.
 
-[Website](https://breakwatch.ai) · [Live Radar](https://breakwatch.ai/radar) · [Docs](https://breakwatch.ai) · [Pricing](https://breakwatch.ai/pricing)
+[Website](https://breakwatch.ai) · [Live Radar](https://breakwatch.ai/radar) · [Pricing](https://breakwatch.ai/pricing)
 
 </div>
 
